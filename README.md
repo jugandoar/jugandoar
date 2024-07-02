@@ -3,7 +3,7 @@
 - 👀 I’m interested in software.
 - 🌱 I’m currently learning React, Laravel and Tailwhind.
 - 💞️ I’m looking to collaborate on proyects.
-- 📫 How to reach me gabrielnaut123@gmail.com.
+- 📫 How to reach me gabrielnaut1@gmail.com.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Americaaaa yaaaaa.
 <!---
