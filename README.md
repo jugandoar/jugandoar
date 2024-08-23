@@ -14,7 +14,7 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me especi
 - MongoDB
 
 ## 📫 Cómo contactarme
-- LinkedIn
+- LinkedIn: 
 - Correo Electrónico
 
 ## 📈 Estadísticas de GitHub
