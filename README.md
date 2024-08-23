@@ -1,12 +1,27 @@
-![Black Minimalist Corporate Professional Profile LinkedIn Banner](https://github.com/jugandoar/jugandoar/assets/129234444/cc9102ec-3475-4a1a-99f8-47b137cf3f02)
-- 👋 Hi, I’m @jugandoar.
-- 👀 I’m interested in software.
-- 🌱 I’m currently learning React, Laravel and Tailwhind.
-- 💞️ I’m looking to collaborate on proyects.
-- 📫 How to reach me gabrielnaut1@gmail.com.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: Americaaaa yaaaaa.
-<!---
-jugandoar/jugandoar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# ¡Hola! Soy Carmelo 👋
+
+Soy un desarrollador apasionado por la tecnología y la programación. Me especializo en **HTML, CSS, JavaScript, PHP** y estoy aprendiendo **React, Node.js, MongoDB** y más.
+
+## 🚀 Tecnologías y Herramientas
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Bases de Datos:** SQL, MySQL, SQL Server
+- **Otros:** Git, GitHub
+
+## 🌱 Actualmente aprendiendo
+- React
+- Node.js
+- MongoDB
+
+## 📫 Cómo contactarme
+- LinkedIn
+- Correo Electrónico
+
+## 📈 Estadísticas de GitHub
+!Estadísticas de GitHub
+
+## 🏆 Logros
+- **Bachiller en Técnico en Desarrollo y Administración de Aplicaciones Informáticas**
+
+## 📂 Proyectos
+- **Calculadora IMC con React**: Una calculadora de índice de masa corporal desarrollada con React.
