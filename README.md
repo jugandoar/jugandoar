@@ -14,12 +14,9 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me especi
 - MongoDB
 
 ## 📫 Cómo contactarme
-- LinkedIn: 
-- Correo Electrónico
-
-## 📈 Estadísticas de GitHub
-!Estadísticas de GitHub
-
+- LinkedIn: https://www.linkedin.com/in/carmelo-gabriel-naut-padilla-2a57272b2/
+- Correo Electrónico: gabrielnaut1@gmail.com
+  
 ## 🏆 Logros
 - **Bachiller en Técnico en Desarrollo y Administración de Aplicaciones Informáticas**
 
